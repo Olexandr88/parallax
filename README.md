@@ -386,5 +386,5 @@ This project is licensed under the terms of the  [MIT](http://www.opensource.org
 
 ## 6.2 Authors
 
-Matthew Wagerfield: [@wagerfield](http://twitter.com/wagerfield)  
+Matthew Wagerfield: [@wagerfield](http://x.com/wagerfield)  
 René Roth: [Website](http://reneroth.xyz/)
